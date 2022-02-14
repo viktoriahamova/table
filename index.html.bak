@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Таблица с данными </title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body id="wrapper">
+<script src="test.js"></script>
+	<table id='table'>
+	<thead>
+	  <th>Имя</th>
+	  <th>Фамилия</th>
+	  <th>Описание</th>
+	  <th>Цвет глаз</th>
+	</thead>
+	</table>
+</body>
+</html>
